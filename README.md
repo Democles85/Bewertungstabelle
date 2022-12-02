@@ -12,7 +12,7 @@ if (!lieferant.getStatus().equalsIgnoreCase("zugelassen") && !lieferant.getStatu
 
 ---
 
-#### 2. Take into account the evaluation categories 4 + 5 as well
+#### 2. Take into account the evaluation categories 4 + 5 as well
 
 There already is a function for the overall calculation, `calcGesamtBewertung()` so I would add the categories 4 and 5 to that:
 
@@ -151,9 +151,10 @@ csvFileOutputTabelle.printf(
 );
 ```
 
-### Output file after changes:
+### Output File after Changes
 
 ```csv
+Buerobedarf Test AG;Musterholz GmbH;Metalltester GmbH;Kunst & Stoff AG;Klein Holz AG;Holzvertrieb AG;
 LieferantenBezeichnung; Warengruppen; LfNR; Bew Kat 1; Bew Kat 2; Bew Kat 3; Bew Kat 4; Bew Kat 5; Gesamtbewertung
 Buerobedarf Test AG; Bürobedarf; 01; 10; 20; 30; 5; 30; sehr gut
 Musterholz GmbH; Holz; 02; 20; 20; 30; 20; 30; sehr gut
