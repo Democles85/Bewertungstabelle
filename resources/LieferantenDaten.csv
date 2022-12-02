@@ -1,0 +1,9 @@
+LieferantenBezeichnung; LfNR; Status; Bew Kat 1; Bew Kat 2; Bew Kat 3; Bew Kat 4; Bew Kat 5; Ansprechpartner; Anlagedatum; WGID
+Buerobedarf Test AG; 01; zugelassen; 10; 20; 30; 5; 30; Hans Test; 05.04.2019; 04
+Musterholz GmbH; 02; zugelassen; 20; 20; 30; 20; 30; Max Mustermann; 07.08.2019; 01
+Metalltester GmbH; 03; zugelassen; 0; 20; 30; 15; 20; Marc Tester ; 09.08.2019; 02
+Kunst & Stoff AG; 04; zugelassen; 0; 5; 30; 11; 20; Hans Peter; 14.11.2019; 03
+Klein Holz AG; 05; archiviert; 20; 20; 30; 15; 12; Max Klein; 04.01.2020; 01
+Polymehr AG; 06; gesperrt; 20; 20; 30; 0; 0; Frank Sperr; 25.01.2020; 03
+Beispiel AG; 07; in Zulasssung; 0; 0; 0; 0; 0; Jürgen Beispiel; 28.03.2020; 02
+Holzvertrieb AG; 09; zugelassen; 0; 20; 30; 8; 7; Anne Stein; 17.04.2020; 01
